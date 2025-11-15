@@ -45,21 +45,14 @@ The workflow extracts the following details from invoices:
 
 - **Invoice Number**: INV-001234
 - **Vendor Name**: ABC Corp.
-- **Amount**: $1,200.00
+- **Amount**: ₹1,200.00
 - **Invoice Date**: 2025-11-15
 - **Due Date**: 2025-12-15
 
 ---
 
 ## Screenshots
-
-
+<img width="3840" height="2160" alt="Screenshot 2025-11-15 100705" src="https://github.com/user-attachments/assets/818b9382-8ea2-4f66-99db-49691f20d7b0" />
+<img width="3840" height="2160" alt="Screenshot 2025-11-15 100717" src="https://github.com/user-attachments/assets/06155d86-08bf-4395-b272-5e2ae70bc9b6" />
+<img width="3840" height="2160" alt="Screenshot 2025-11-15 100755" src="https://github.com/user-attachments/assets/8dff5a0c-d708-48db-bdf1-8ec85681cc57" />
 ---
-
-## Running the Workflow
-1. **Install UiPath Studio** and ensure all the required dependencies are installed.
-2. Open **Main.xaml** in UiPath Studio.
-3. If necessary, update any **API keys**, **file paths**, or **email configurations**.
-4. Run the workflow to automate invoice processing.
-```
-
